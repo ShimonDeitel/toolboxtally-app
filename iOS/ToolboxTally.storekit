@@ -1,0 +1,27 @@
+{
+  "identifier": "SK_CONFIG",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "2.99",
+      "familyShareable": false,
+      "internalID": "PRO1",
+      "localizations": [
+        {
+          "description": "Unlimited tools, loan-return reminders, and photo inventory export",
+          "displayName": "Toolbox Tally Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "com.shimondeitel.toolboxtally.pro",
+      "referenceName": "Toolbox Tally Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {},
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
